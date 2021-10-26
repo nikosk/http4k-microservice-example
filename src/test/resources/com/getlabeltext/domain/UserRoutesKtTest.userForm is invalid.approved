@@ -1,0 +1,8 @@
+[
+  {
+    "message": "Email is invalid"
+  },
+  {
+    "message": "Password confirmation cannot be null"
+  }
+]
